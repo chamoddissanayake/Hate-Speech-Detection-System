@@ -1,0 +1,35 @@
+.comment-card {
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.comment-content {
+    display: flex;
+    align-items: center;
+}
+
+.user-icon {
+    font-size: 40px;
+    margin-right: 20px;
+}
+
+.comment-details {
+    flex: 1;
+}
+
+.user {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.text {
+    margin-bottom: 10px;
+}
+
+.date {
+    font-size: 12px;
+    color: #888;
+    text-align: right;
+}
